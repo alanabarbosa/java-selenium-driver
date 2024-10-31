@@ -1,0 +1,38 @@
+# Arquivos e diretórios do Eclipse
+.classpath
+.project
+.settings/
+
+# Diretório de compilação (binários)
+bin/
+
+# Logs
+*.log
+
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de captura de tela (ou outros temporários)
+screenshots/
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Bibliotecas externas (JARs)
+lib/
+
+# Dependências baixadas (se você estiver usando um gerenciador de dependências como Maven)
+.mvn/
+
